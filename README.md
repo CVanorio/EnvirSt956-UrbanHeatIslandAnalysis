@@ -7,7 +7,7 @@
 #### 4. Click the google colab button to open the script
 
 ### If you have not already, create a [Google Earth Engine](https://code.earthengine.google.com/) account with a registered cloud project
-#### 1. Create a Google Earth Engine account
+#### 1. Click the link above to create a Google Earth Engine account
 #### 2. Go to your account settings and click "Register a new Cloud Project"
 #### 3. Follow the workflow to set up a Cloud Project
 
