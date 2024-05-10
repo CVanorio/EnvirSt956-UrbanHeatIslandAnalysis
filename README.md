@@ -2,6 +2,7 @@
 
 ### To run this code using the tutorial data:
 #### 1. Download every file located within the TutorialData files and subfiles
+##### Data is located in the TutorialData folder and includes
 #### 2. Upload these files to your Google Drive account
 #### 3. Open the Tutorial Script folder
 #### 4. Open the Demo script
